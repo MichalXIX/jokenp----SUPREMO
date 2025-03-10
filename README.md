@@ -2,7 +2,7 @@
 
 <img src="./assets/Captura de tela 2025-03-09 220051.png"></img>
 
-<p>Esse foi um projeto utilizando conhecimento em JavaScript, sendo eles: for each, map, reduce e filter. Utilzei linguagens como:</p>
+<p>Projeto concluído com sucesso! 🎉 Apresento o Jokenpô Master, um jogo divertido de pedra, papel e tesoura onde você pode testar suas habilidades contra a máquina. O jogo foi desenvolvido com muito empenho, buscando proporcionar uma experiência interativa e dinâmica. Durante o processo, aprimorei meus conhecimentos em programação e me diverti bastante criando cada detalhe. Esse projeto representa mais um passo na minha jornada como desenvolvedor, e estou animado para continuar evoluindo! Utilzei linguagens como:</p>
 <br>
 <ul
 <li> 
